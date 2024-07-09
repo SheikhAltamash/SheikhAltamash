@@ -8,7 +8,7 @@ In the evenings, my endeavors shift towards the exploration and mastery of React
 
 ## Technical Proficiency
 
-- Proficient in foundational web development languages such as HTML, CSS, and JavaScript.
+- Proficient in foundational web development languages such as HTML, CSS, JavaScript and React.
 - Adept at utilizing and implementing Node js , Monogo DB , Express js for creating web technologies
 
 ## Contact Information
