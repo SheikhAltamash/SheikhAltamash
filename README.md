@@ -1,77 +1,109 @@
-# Hi there, I'm Sheikh Altamash 👋
+# Sheikh Altamash 👋
 
-<a href="https://www.linkedin.com/in/sheikh-altamash-b928371b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/SheikhA97383484" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="[YOUR_PORTFOLIO_LINK_HERE]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-
----
-
-🎓 I'm a Computer Science Engineer based in India with a passion for building efficient and scalable applications. I enjoy tackling problems related to Data Structures & Algorithms and exploring the world of Full Stack Development and Machine Learning.
-
-🌱 I’m currently deepening my knowledge in [Mention a specific technology/area, e.g., Cloud Native technologies, advanced MERN stack features, specific ML algorithms].
-
-💻 My core interests lie in creating seamless user experiences and leveraging data to build intelligent systems.
+<p align="center">
+  <a href="https://linkedin.com/in/sheikhaltamash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:altamashsheikh077@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ My Skills
+🎓 Currently pursuing a Bachelor of Technology in Computer Science and Engineering at Anjuman College of Engineering and Technology, Nagpur (2022 - Present).
 
-**Languages:**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+🚀 Passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) with a strong foundation in building dynamic, responsive, and secure web applications.
 
-**Frontend:**
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux"/> <!-- Add if applicable -->
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <!-- Add if applicable -->
+💡 Keen interest in developing efficient backend systems, leveraging APIs for enhanced functionality, and solving real-world problems through technology. Experienced in API testing, version control, and cloud integrations.
 
-**Backend (MERN):**
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-
-**Databases:**
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=blue" alt="SQL"/> <!-- Use a generic SQL or specific DB logo -->
-
-**Machine Learning:**
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy"/>
-
-**Tools & Platforms:**
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+🏆 Proven ability to excel in competitive environments, demonstrated through winning project competitions and leading teams in hackathons.
 
 ---
 
-## ✨ Featured Projects
+### 🛠️ Skills & Technologies
 
-Here are a few projects I'm proud of:
+*   **Languages:** JavaScript, Java, HTML5, CSS3
+*   **Frontend:** React.js, Tailwind CSS
+*   **Backend:** Node.js, Express.js
+*   **Databases:** MongoDB, SQL
+*   **APIs:** RESTful APIs
+*   **Tools & Platforms:** Git, GitHub, VS Code, Postman, Hoppscotch, Puppeteer, Cloudinary
+*   **Concepts:** Full-Stack Development, Database Management, API Integration, Web Scraping (Puppeteer), Cloud Storage & CDN (Cloudinary), Secure Development Practices
 
-*   🎬 **[Movie Recommender System](https://github.com/SheikhAltamash/Movie-Recommender-System-Using-ML)**: A content-based recommendation system using ML techniques (Scikit-learn, Pandas) to suggest movies.
-*   🌦️ **[Weather App](https://github.com/SheikhAltamash/Weather-App-Using-React)**: A React application to fetch and display real-time weather information using an external API. ([Live Demo]([LINK_TO_DEMO_IF_AVAILABLE]))
-*   🛒 **[E-commerce Website](https://github.com/SheikhAltamash/E-commerce-website)**: A MERN stack based e-commerce platform featuring [mention 1-2 key features, e.g., product listings, user cart]. ([Live Demo]([LINK_TO_DEMO_IF_AVAILABLE]))
-*   📝 **[To-Do List App](https://github.com/SheikhAltamash/To-Do-List-App)**: A simple yet functional task management application built with [mention tech, e.g., React/JavaScript].
-*   📚 **[Placement Preparation Coding](https://github.com/SheikhAltamash/Placement-Preparation-Coding)**: My collection of solutions for common Data Structures and Algorithms problems.
-
-_(Feel free to explore my repositories for more!)_
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+   <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1599098500/creative_source/Logo/Cloud%20glyph/cloudinary_cloud_glyph_blue_png.png" alt="cloudinary" width="40" height="40"/> </a>
+   <a href="https://pptr.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" height="40"/> </a>
+</p>
 
 ---
 
-## 📫 How to Reach Me
+### 💼 Experience
 
-*   **LinkedIn:** [https://www.linkedin.com/in/sheikh-altamash-b928371b9/](https://www.linkedin.com/in/sheikh-altamash-b928371b9/)
-*   **Twitter:** [@SheikhA97383484](https://twitter.com/SheikhA97383484)
-*   **Portfolio:** [Your Portfolio Link]
-*   **Email:** [Your Email Address (Optional)]
+**Web Full Stack Developer Virtual Internship** | EduSkills Academy *(Jan 2025 - Mar 2025)*
+*   Completed a 10-week intensive virtual internship focused on full-stack web development (MERN Stack).
+*   Developed dynamic web applications, managed databases (MongoDB, SQL), and built RESTful APIs.
+*   Utilized tools like Postman, Hoppscotch, and GitHub for API testing, version control, and collaboration.
+*   Focused on creating responsive UIs and implementing secure data handling practices.
 
 ---
 
-<!-- Optional: Add GitHub Stats -->
-<!-- ![Sheikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhAltamash&show_icons=true&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAltamash&layout=compact&theme=radical) -->
+### 🚀 Projects
+
+*   **Social Media Investigation Tool**
+    *   *Tech:* Node.js, Express.js, MongoDB, React.js, **Puppeteer**
+    *   Full-stack tool designed for law enforcement intelligence gathering via social media.
+    *   Implemented automated, headless browser data extraction using Puppeteer, effectively handling dynamic content, rate limiting, and data formatting challenges.
+    *   *(Link to Repo/Demo if available)*
+
+*   **Note-Sharing and Doubt Solving Platform**
+    *   *Tech:* Node.js, Express.js, MongoDB, **Cloudinary**, **Gemini 2.0 Flash API**
+    *   Secure platform featuring robust user authentication, real-time collaboration for note sharing.
+    *   Integrated Gemini API for an intelligent AI-powered doubt-solving feature.
+    *   Utilized Cloudinary for efficient/secure media storage and automated email notifications for enhanced user engagement.
+    *   *(Link to Repo/Demo if available)*
+
+*   **Online Accommodation Booking Platform**
+    *   *Tech:* Node.js, Express.js, MongoDB, **Cloudinary**
+    *   Developed an Airbnb-inspired platform allowing users to seamlessly search and book accommodations.
+    *   Focused on intuitive UI/UX, secure image storage via Cloudinary, and reliable, secure booking functionalities.
+    *   *(Link to Repo/Demo if available)*
+
+---
+
+### ✨ Achievements & Activities
+
+*   🏆 **1st Place, Aavishkar 2025 (Software Category):** Secured first place at the project competition held at Government College of Engineering, Nagpur, for developing and presenting an innovative software solution.
+*   🧠 **Smart India Hackathon 2024:** Led a 6-member team to design and implement a functional prototype for a social media analysis tool supporting the National Investigation Agency (NIA).
+*   💡 **Patent Connect Finalist:** Selected to present a fully functional prototype at Advantage Vidarbha, showcasing innovation and receiving valuable insights on patent potential from industry experts and investors.
+*   📜 **Certified MERN Stack Developer (Delta 2.0)** from Apna College (Apr 2023).
+
+---
+
+### 🎓 Education
+
+*   **Anjuman College of Engineering and Technology, Nagpur**
+    *   Bachelor of Technology, Computer Science and Engineering (2022 - Present)
+*   **Seth Kesrimal Porwal College, Kamptee**
+    *   Higher Secondary Certification (Class XII) (2020 - 2022)
+*   **Shree Narayana Vidyalaya, Kanhan**
+    *   Secondary School Certification (Class X) (2019 - 2020)
+
+---
+
+### 📫 How to reach me:
+
+*   **LinkedIn:** [linkedin.com/in/sheikhaltamash](https://linkedin.com/in/sheikhaltamash)
+*   **Email:** [altamashsheikh077@gmail.com](mailto:altamashsheikh077@gmail.com)
